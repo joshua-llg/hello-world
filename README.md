@@ -1,3 +1,5 @@
 # hello-world
-just learning
-still learning
+#!/bin/bash
+
+echo "Hello world"
+read hello
